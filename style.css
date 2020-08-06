@@ -1,0 +1,22 @@
+
+body {
+	background-image: url(backgroundimage.jpg);
+	background-size: cover;
+
+}
+
+h2 {
+	color:red;
+	text-align: center;
+	border:5px solid purple;
+	cursor:pointer;
+}
+
+p {
+	color:green;
+}
+
+li {
+	list-style:none;
+	display: inline-block;
+}
